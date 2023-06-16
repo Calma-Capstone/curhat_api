@@ -1,0 +1,58 @@
+{
+    "video": {
+        "sad": [
+            "https://www.youtube.com/watch?v=Pcsgl7uKZUU"
+        ],
+        "happy":[
+            "https://www.youtube.com/watch?v=iz0yM5YoIow"
+        ],
+        "calm":[
+
+        ],
+        "neutral":[
+
+        ],
+        "fear":[
+            "https://www.youtube.com/watch?v=aGdyVSdkejg&pp=ygUbd2hhdCB0byBkbyB3aGVuIEkgZmVlbCBmZWFy",
+            "https://www.youtube.com/watch?v=m6rcjY8YHJc&pp=ygUTbWFyayBtYW5zb24gYW54aWV0eQ%3D%3D"
+        ],
+        "surprise":[
+            
+        ],
+        "disgust": [
+            "https://www.youtube.com/watch?v=PTXWVKhcXRI"
+        ],
+        "angry": [
+            "https://www.youtube.com/watch?v=coiCkmcKjX8",
+            "https://www.youtube.com/watch?v=Pj1Di0xtS1g,"
+        ]
+
+    },
+    "text":{
+        "happy":[
+            "That's wonderful to hear that you're feeling happy! It's important to embrace and cherish those positive emotions. Take a moment to savor this happiness and appreciate the joy it brings to your life. If you'd like to share more about what's been contributing to your happiness, I'm here to listen and support you."
+        ],
+        "disgust": [
+            "I hear that you're feeling intense disgust, and I want you to know that I'm here to support you. It's completely valid to have these emotions, and it's important to explore what might be triggering them. Together, we can work on identifying coping strategies that can help you manage and navigate these feelings. Remember, you don't have to face this alone, and I'm here to provide the support you need along the way."
+        ],
+        "calm":[
+            "I notice that you're feeling calm, and that's a wonderful state to be in. It's important to recognize and appreciate moments of tranquility and inner peace. How does this calmness manifest for you? What thoughts, sensations, or experiences contribute to this sense of calm? Take a moment to savor this feeling and allow yourself to fully experience it. If there are specific strategies or practices that help you cultivate and maintain this calm state, it could be beneficial to explore them further. Let's discuss ways to integrate this sense of calmness into other aspects of your life and how it can contribute to your overall well-being"
+        ],
+        "neutral":[
+            "I understand that you're feeling a neutral emotional state right now. It's important to acknowledge and honor this experience. Neutral states can provide a sense of calm and balance. If you'd like to share more about what this feels like for you, I'm here to listen and support you. Remember that exploring your emotional landscape, even in neutral states, can contribute to a deeper understanding of yourself and your overall well-being"
+        ],
+        "fear":[
+            
+        ],
+        "surprise":[
+            "I sense that you're experiencing surprise, and it's understandable given the unexpected nature of the situation. Surprise can be an interesting and complex emotion. Take a moment to acknowledge and explore what specifically surprised you and how it has impacted you. If you're comfortable sharing, I'm here to listen and help you process these feelings. Remember, surprise can present opportunities for growth, learning, and new perspectives. Let's explore together how you can navigate this surprising experience and find meaning or insight within it"
+        ],
+        "sad":[
+            
+        ],
+        "angry":[
+            
+        ]
+
+    }
+}
